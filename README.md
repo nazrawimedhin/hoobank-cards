@@ -26,7 +26,7 @@ This personal project is designed to provide a seamless and user-friendly experi
 To run the project locally, follow these steps:
 
 1. Clone the repository: `git clone https://github.com/nazrawimedhin/hoobank-cards.git`
-2. Navigate to the project directory: `cd payment-card-website`
+2. Navigate to the project directory: `cd hoobank-cards`
 3. Install dependencies: `npm install` or `yarn install`
 
 ## Usage
